@@ -1,2 +1,3 @@
-# Database-for-GSM-Store
-A well defined Databsase for a GSM store showcasing different select statements
+The Gsm1 database is structured to efficiently manage a retail store’s electronic inventory, employee shifts,
+and brand relationships. It allows for detailed analysis, filtering, and organization of data related to computers,
+phones, brands, employees, and work shifts. The queries ensure robust data management, including aggregations, joins, filtering, and updates.
